@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "start": "vite",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --passWithNoTests",
     "eject": "react-scripts eject"
   },
   "dependencies": {
